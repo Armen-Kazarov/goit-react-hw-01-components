@@ -27,12 +27,12 @@
   margin-right: 10px;
 }
 
-.colorIsOnline {
+.online {
   background-color: #23fc02;
   display: flex;
 }
 
-.colorIsOffline {
+.offline {
   background-color: #ff0000;
   display: flex;
 }
